@@ -12,3 +12,6 @@ images to prepare them for analysis.
 Next, we will use a pre-trained CNN model such as VGG16 to extract features from the images,
 and then train a classification model using these features. We will use techniques such as data
 augmentation, transfer learning, and fine-tuning to improve the accuracy of our model.
+
+
+Dataset used: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
